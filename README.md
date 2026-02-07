@@ -6,7 +6,7 @@ ZennのJSチュートリアルを写経したものになります。
 
 - [x] Chapter01 JavaScriptの基礎
 - [x] Chapter02 定数/変数と演算
-- [ ] Chapter03 条件分岐
+- [x] Chapter03 条件分岐
 - [ ] Chapter04 繰り返し
 - [ ] Chapter05 配列
 - [ ] Chapter06 オブジェクト
